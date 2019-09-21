@@ -1,0 +1,59 @@
+# This file is managed by openstack-ansible. No manual edits.
+{
+    "compute1": {
+        "ansible_host": "172.29.236.12",
+        "container_address": "172.29.236.12"
+    },
+    "infra1": {
+        "ansible_host": "172.29.236.11",
+        "container_address": "172.29.236.11"
+    },
+    "infra1_cinder_api_container-664754c1": {
+        "ansible_host": "172.29.237.39",
+        "container_address": "172.29.237.39"
+    },
+    "infra1_galera_container-549e2f40": {
+        "ansible_host": "172.29.238.216",
+        "container_address": "172.29.238.216"
+    },
+    "infra1_glance_container-07d4a588": {
+        "ansible_host": "172.29.238.232",
+        "container_address": "172.29.238.232"
+    },
+    "infra1_heat_api_container-c42d3211": {
+        "ansible_host": "172.29.237.69",
+        "container_address": "172.29.237.69"
+    },
+    "infra1_horizon_container-fb1e9364": {
+        "ansible_host": "172.29.237.189",
+        "container_address": "172.29.237.189"
+    },
+    "infra1_keystone_container-21297b7d": {
+        "ansible_host": "172.29.238.177",
+        "container_address": "172.29.238.177"
+    },
+    "infra1_memcached_container-5b192bf2": {
+        "ansible_host": "172.29.237.117",
+        "container_address": "172.29.237.117"
+    },
+    "infra1_neutron_server_container-781026c8": {
+        "ansible_host": "172.29.237.217",
+        "container_address": "172.29.237.217"
+    },
+    "infra1_nova_api_container-cae3b9c5": {
+        "ansible_host": "172.29.237.251",
+        "container_address": "172.29.237.251"
+    },
+    "infra1_rabbit_mq_container-84a05bb6": {
+        "ansible_host": "172.29.236.255",
+        "container_address": "172.29.236.255"
+    },
+    "infra1_repo_container-dee9613c": {
+        "ansible_host": "172.29.238.92",
+        "container_address": "172.29.238.92"
+    },
+    "infra1_utility_container-b605d257": {
+        "ansible_host": "172.29.237.14",
+        "container_address": "172.29.237.14"
+    }
+}
